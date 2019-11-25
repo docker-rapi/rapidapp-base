@@ -3,7 +3,7 @@ MAINTAINER Henry Van Styn <vanstyn@cpan.org>
 
 
 RUN cpanm \
- http://cpan.metacpan.org/authors/id/V/VA/VANSTYN/RapidApp-1.3200.tar.gz \
+ http://cpan.metacpan.org/authors/id/V/VA/VANSTYN/RapidApp-1.3201.tar.gz \
 && rm -rf .cpanm/
 
 
